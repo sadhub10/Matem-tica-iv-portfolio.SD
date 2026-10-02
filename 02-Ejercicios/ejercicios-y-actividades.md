@@ -35,4 +35,14 @@ Este proyecto nos permitió comprender cómo el álgebra matricial se convierte 
 > *Una experiencia formativa valiosa que fortaleció nuestra visión sobre la economía cuantitativa y la toma de decisiones estratégicas.*
 
    
+4. **[Trabajo de Revisión Bibliorafica](https://drive.google.com/drive/folders/1ehr9BMS6SYbWxiORwSsTKIJn2EV2v4QW?usp=drive_link)**
+
+   En esta ocasión, desarrollé junto a mi compañero el trabajo titulado **"INFLUENCIA DE LOS CONFLICTOS BÉLICOS MUNDIALES EN LA ECONOMÍA VENEZOLANA"**, enfocado en el análisis del impacto de las guerras contemporáneas sobre las variables macroeconómicas del país.
+
+   Este proyecto nos permitió explorar cómo los choques geopolíticos externos se transmiten a la economía nacional a través del **mercado energético**, la **inflación importada** y las **cadenas logísticas globales**, convirtiéndose en una experiencia académica enriquecedora que amplió nuestro horizonte sobre la interconexión entre la geopolítica mundial y la realidad económica venezolana.
+
+
 5. **[Estudio de Caso](Enlace)**
+
+
+6. **[Estudio de Caso](Enlace)**
