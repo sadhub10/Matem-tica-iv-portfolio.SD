@@ -2,7 +2,7 @@
 
 Aquí se encuentran los archivos PDF con la resolución de los ejercicios y prácticas de la asignatura:
 
-1. **[Reportes de Direcciones](./(https://drive.google.com/drive/folders/1eRAvIv72PkIu-S_Yc_p7gymZXY7WxJGr?usp=drive_link))**
+1. **[Reportes de Direcciones](https://drive.google.com/drive/folders/1eRAvIv72PkIu-S_Yc_p7gymZXY7WxJGr?usp=drive_link)**
    * **Texto de referencia:** Zill, D. G. (2018). *Ecuaciones diferenciales con aplicaciones de modelado*.
    * **Objetivo:** Autorregulación y práctica de métodos de orden superior.
 
