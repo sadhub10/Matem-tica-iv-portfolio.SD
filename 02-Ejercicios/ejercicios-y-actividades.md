@@ -31,6 +31,33 @@ Para **cada una** de las fuentes analizadas (5 teóricas y 3 interactivas) se de
 * **h. Conclusión global:** Balance final sobre el aprendizaje y el dominio del tema.*
 
   
-2. **[Unidad 2 - Práctica Independiente](./unidad-2-ejercicios.pdf)**
-   * **Texto de referencia:** Boyce & DiPrima. *Ecuaciones diferenciales y problemas con valores en la frontera*.
-   * **Objetivo:** Reforzamiento de series de potencias.
+2. **[Estudio de Caso](https://drive.google.com/drive/folders/10T0F3A58D_urzh19wICNo4zjQ8Uyahr6?usp=drive_link)**
+
+  En esta ocasión, desarrollé junto a mi compañero el trabajo titulado **"ESTUDIO DE CASO: APLICACIÓN DE CADENAS DE MARKOV FINITAS EN LA
+MODELACIÓN DE LA MOVILIDAD DEL MERCADO LABORAL"**, enfocado en la teoría y aplicación práctica de los procesos estocásticos en entornos discretos. 
+
+Este proyecto nos permitió explorar cómo la probabilidad matricial modela transiciones de estado en sistemas reales, convirtiéndose en una experiencia académica enriquecedora que amplió nuestro horizonte sobre la matemática aplicada a la economía y la toma de decisiones.
+
+---
+
+## 🎯 Objetivos y Puntos Clave
+
+* **Matriz de Transición ($P$) y Propiedad de Markov:** Modelado del sistema bajo la premisa de falta de memoria, donde el estado futuro depende exclusivamente del estado presente.
+* **Proyección Temporal ($P^n$):** Cálculo del comportamiento proyectado a $n$ pasos a partir del vector de probabilidad inicial.
+* **Análisis de Estados:** Identificación y clasificación de estados absorbentes, recurrentes y transitorios.
+* **Distribución Estacionaria ($\pi = \pi P$):** Determinación del vector de probabilidad de equilibrio a largo plazo mediante autovectores.
+
+---
+
+## 🤝 Aprendizaje y Valor Práctico
+
+La colaboración en equipo fue clave para auditar el rigor matemático (operaciones matriciales, álgebra lineal y autovectores) y conectar la teoría con modelos probabilísticos aplicados a la economía y análisis cuantitativo.
+
+---
+
+## 💡 Conclusión
+
+Este proyecto reafirma la utilidad de la matemática aplicada como una herramienta fundamental para predecir dinámicas complejas y optimizar decisiones estratégicas en entornos de incertidumbre.
+
+3. **[Estudio de Caso](Enlace)**
+4. **[Estudio de Caso](Enlace)**
