@@ -8,7 +8,7 @@
   <strong>Universidad Central de Venezuela</strong><br>
   Facultad de Ciencias Económicas y Sociales (FACES)<br>
   Escuela de Economía — Departamento de Métodos Cuantitativos<br>
-  <strong>Profesor(a):</strong> Máryori González[cite: 1]<br>
+  <strong>Profesor(a):</strong> Máryori González<br>
   <strong>Estudiante:</strong> Samuel David Díaz Aponte
 </p>
 
