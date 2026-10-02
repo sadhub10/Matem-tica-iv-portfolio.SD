@@ -8,7 +8,7 @@
 ### 📐 Perspectiva y Pensamiento Analítico
 
 <p align="center">
-  <img src="./activos/poincare.jpg.jfif" alt="Henri Poincaré" width="220">
+  <img src="https://github.com/user-attachments/assets/b5f367e7-c06d-41b6-8505-19c27856d562" alt="Henri Poincaré" width="220">
 </p>
 <p align="center"><em>Henri Poincaré (1854-1912)</em></p>
 
