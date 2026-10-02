@@ -10,7 +10,7 @@
 
 ### 1. Datos de Identificación
 * **Participante:** Samuel David Díaz Aponte
-* **Cédula de Identidad:** [Tu Cédula]
+* **Cédula de Identidad:** 31.382.689
 * **Asignatura:** Matemática IV
 * **Institución:** Universidad Central de Venezuela (UCV)
 * **Nombre del Portafolio:** Portafolio Académico de Matemática IV
