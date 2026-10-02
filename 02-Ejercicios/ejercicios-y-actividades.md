@@ -44,4 +44,4 @@ Este proyecto nos permitió comprender cómo el álgebra matricial se convierte 
 
 5. **[Otras Actividades](https://drive.google.com/drive/folders/1A2Hl--51JzFp3IK9USJNpUXsOLuBtT_v?usp=drive_link)**
 
-En este enlace se encuentran actividades adicionales realizadas durante el curso, incluyendo ensayos, trabajos de conceptos y definiciones, e informes complementarios.
+   En este enlace se encuentran actividades adicionales realizadas durante el curso, incluyendo ensayos, trabajos de conceptos y definiciones, e informes complementarios.
