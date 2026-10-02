@@ -25,7 +25,7 @@ Este repositorio digital recopila y estructura el portafolio académico correspo
 El contenido se encuentra organizado de acuerdo con el programa oficial de la cátedra[cite: 1], estructurado en las siguientes secciones:
 
 * **[00-Programa de la Asignatura](./00-Programa%20de%20la%20Asignatura/)**: Sílabo oficial, objetivos y lineamientos metodológicos del curso[cite: 1].
-* **[01-Introducción](./01-Introducci%C3%B3n/README.md)**: Fundamentos lógicos y conceptuales previos al análisis formal.
+* **[01-Introducción](./01-Introduccion/)**: Fundamentos lógicos y conceptuales previos al análisis formal.
 * **[02-Ejercicios](./02-Ejercicios/)**: Desarrollo de problemas prácticos y talleres cuantitativos.
 * **[03-Evaluaciones Escritas](./03-Evaluaciones%20Escritas/)**: Pruebas y evaluaciones sumativas del período académico.
 * **[04-Actividades Creativas](./04-Actividades%20Creativas/)**: Mapas conceptuales, esquemas visuales e infografías elaboradas durante el semestre.
