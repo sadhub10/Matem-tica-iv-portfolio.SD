@@ -22,7 +22,7 @@ El contenido de este portafolio se encuentra organizado en las siguientes seccio
 * **[B.1. Introducción](#b1-introducción)**
 * **[B.2. Ejercicios, Trabajos y Actividades](#b2-ejercicios-trabajos-y-actividades)**
 * **[B.3. Evaluaciones Escritas](#b3-evaluaciones-escritas)**
-* **[B.4. Mapas Conceptuales](#b4-mapas-conceptuales)**
+* **[B.4. Actividades Creativas](#b4-actividade-creativas-)**
 * **[B.5. Pensamientos y Reflexiones](#b5-pensamientos-y-reflexiones)**
 * **[B.6. Experiencias Personales](#b6-experiencias-personales)**
 * **[B.7. Autoevaluación](#b7-autoevaluación)**
@@ -52,33 +52,33 @@ El contenido de este portafolio se encuentra organizado en las siguientes seccio
 ### B.2. Ejercicios, Trabajos y Actividades
 * Recopilación de ejercicios resueltos, prácticas y actividades del curso y de estudio independiente.
 * Referencias de los textos bibliográficos utilizados.
-*(Puedes ver el detalle en la carpeta `02-ejercicios/`)*
+*(Puedes ver el detalle en la carpeta `02-ejercicios`)*
 
 ---
 
 ### B.3. Evaluaciones Escritas
 * Archivo de evaluaciones presentadas.
 * Reflexiones y justificación analítica de las calificaciones obtenidas para la mejora continua.
-*(Puedes ver el detalle en la carpeta `03-evaluaciones/`)*
+*(Puedes ver el detalle en la carpeta `03-evaluaciones`)*
 
 ---
 
-### B.4. Mapas Conceptuales
+### B.4. Actividades Creativas
 * Síntesis visuales y esquemas conceptuales elaborados por unidad y de forma global al cierre de la materia.
-*(Puedes ver el detalle en la carpeta `04-mapas-conceptuales/`)*
+*(Puedes ver el detalle en la carpeta `04-actividades creativas`)*
 
 ---
 
 ### B.5. Pensamientos y Reflexiones
 * Análisis y reflexiones derivadas de las lecturas periódicas de pensamientos para el crecimiento personal.
-*(Puedes ver el detalle en la carpeta `05-pensamientos/`)*
+*(Puedes ver el detalle en la carpeta `05-pensamientos`)*
 
 ---
 
 ### B.6. Experiencias Personales
 * Reflexiones finales por cada unidad de estudio.
 * Reflexión integradora de cierre al finalizar el curso.
-*(Puedes ver el detalle en la carpeta `06-experiencias-personales/`)*
+*(Puedes ver el detalle en la carpeta `06-experiencias-personales`)*
 
 ---
 
