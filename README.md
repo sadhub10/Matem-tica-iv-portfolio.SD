@@ -1,7 +1,7 @@
 # 📊 Portafolio Académico: Matemática IV
 
 <p align="center">
-  <img src="assets/caratula.png" alt="Carátula del Portafolio" width="800"/>
+  <img src="https://raw.githubusercontent.com/sadhub10/Matem-tica-iv-portfolio.SD/main/assets/images.png" alt="Carátula del Portafolio" width="800">
 </p>
 
 ---
