@@ -1,96 +1,50 @@
-# 📊 Portafolio Académico: Matemática IV
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sadhub10/Matem-tica-iv-portfolio.SD/main/assets/images.png" alt="Carátula del Portafolio" width="200">
 </p>
 
----
+<h1 align="center">Portafolio Académico - Matemática IV (3414)</h1>
 
-## 📌 A. Presentación
-
-### 1. Datos de Identificación
-* **Participante:** Samuel David Díaz Aponte
-* **Cédula de Identidad:** 31.382.689
-* **Asignatura:** Matemática IV
-* **Institución:** Universidad Central de Venezuela (UCV)
-* **Nombre del Portafolio:** Portafolio Académico de Matemática IV
-
-### 2. Índice General
-El contenido de este portafolio se encuentra organizado en las siguientes secciones siguiendo los lineamientos de la asignatura:
-
-* **[Programa de la Asignatura](#programa-de-la-asignatura)** *(Material base del curso)*
-* **[B.1. Introducción](#b1-introducción)**
-* **[B.2. Ejercicios, Trabajos y Actividades](#b2-ejercicios-trabajos-y-actividades)**
-* **[B.3. Evaluaciones Escritas](#b3-evaluaciones-escritas)**
-* **[B.4. Actividades Creativas](#b4-actividade-creativas-)**
-* **[B.5. Pensamientos y Reflexiones](#b5-pensamientos-y-reflexiones)**
-* **[B.6. Experiencias Personales](#b6-experiencias-personales)**
-* **[B.7. Autoevaluación](#b7-autoevaluación)**
-* **[B.8. Otros (Material Adicional)](#b8-otros-material-adicional)**
-
-### 3. Orden del Portafolio
-> Este documento y la estructura de carpetas de este repositorio siguen estrictamente el orden secuencial planteado en la guía de la asignatura, garantizando un recorrido claro por el proceso de aprendizaje, desarrollo teórico, reflexiones y autoevaluación.
+<p align="center">
+  <strong>Universidad Central de Venezuela</strong><br>
+  Facultad de Ciencias Económicas y Sociales (FACES)<br>
+  Escuela de Economía — Departamento de Métodos Cuantitativos<br>
+  <strong>Profesor(a):</strong> Máryori González[cite: 1]<br>
+  <strong>Estudiante:</strong> Samuel David Díaz Aponte
+</p>
 
 ---
 
-## 📂 Contenido del Portafolio
+## 📌 Presentación del Repositorio
+
+Este repositorio digital recopila y estructura el portafolio académico correspondiente a la asignatura **Matemática IV**. Su propósito es documentar el proceso de aprendizaje teórico, analítico y práctico, integrando herramientas de computación y modelado cuantitativo aplicadas a las ciencias económicas.
 
 ---
 
-### Programa de la Asignatura
-*Espacio reservado para el material de presentación y programa de la materia.*
+## 🗂️ Estructura del Portafolio
+
+El contenido se encuentra organizado de acuerdo con el programa oficial de la cátedra[cite: 1], estructurado en las siguientes secciones:
+
+* **[00-Programa de la Asignatura](./00-Programa%20de%20la%20Asignatura/)**: Sílabo oficial, objetivos y lineamientos metodológicos del curso[cite: 1].
+* **[01-Introducción](./01-Introducci%C3%B3n/)**: Fundamentos lógicos y conceptuales previos al análisis formal.
+* **[02-Ejercicios](./02-Ejercicios/)**: Desarrollo de problemas prácticos y talleres cuantitativos.
+* **[03-Evaluaciones Escritas](./03-Evaluaciones%2520Escritas/)**: Pruebas y evaluaciones sumativas del período académico.
+* **[04-Actividades Creativas](./04-Actividades%2520Creativas/)**: Mapas conceptuales, esquemas visuales e infografías elaboradas durante el semestre.
+* **[05-Pensamientos](./05-Pensamientos/)**: Ensayos y reflexiones críticas sobre la filosofía matemática y su vinculación con la realidad económica.
+* **[06-Experiencias Personales](./06-Experiencias%2520Personales/)**: Bitácoras y valoraciones sobre el crecimiento académico individual y colaborativo.
+* **[07-Autoevaluación](./07-Autoevalu%C3%B1acion/)**: Balance crítico del rendimiento, fortalezas y áreas de consolidación personal.
+* **[08-Otros (Material Adicional)](./08-Otros%2520(Material%2520Adicional)/)**: Reflexiones de cierre, inspiraciones y material complementario del portafolio.
 
 ---
 
-### B.1. Introducción
-* Presentación general del trabajo realizado.
-* Reflexión personal sobre la profundización en las competencias de la asignatura.
-*(Puedes ver el detalle en la carpeta `01-introduccion/`)*
+## ⚙️ Tecnologías y Metodología
+
+* **Lenguaje de Marcado:** Markdown y HTML para una renderización limpia, estructurada y estable en GitHub.
+* **Control de Versiones:** Git y GitHub para la gestión del repositorio y despliegue del portafolio.
+* **Enfoque Académico:** Rigurosidad analítica orientada a la interpretación económica de sistemas formales y modelos de optimización multidimensional.
 
 ---
 
-### B.2. Ejercicios, Trabajos y Actividades
-* Recopilación de ejercicios resueltos, prácticas y actividades del curso y de estudio independiente.
-* Referencias de los textos bibliográficos utilizados.
-*(Puedes ver el detalle en la carpeta `02-ejercicios`)*
-
----
-
-### B.3. Evaluaciones Escritas
-* Archivo de evaluaciones presentadas.
-* Reflexiones y justificación analítica de las calificaciones obtenidas para la mejora continua.
-*(Puedes ver el detalle en la carpeta `03-evaluaciones`)*
-
----
-
-### B.4. Actividades Creativas
-* Síntesis visuales y esquemas conceptuales elaborados por unidad y de forma global al cierre de la materia.
-*(Puedes ver el detalle en la carpeta `04-actividades creativas`)*
-
----
-
-### B.5. Pensamientos y Reflexiones
-* Análisis y reflexiones derivadas de las lecturas periódicas de pensamientos para el crecimiento personal.
-*(Puedes ver el detalle en la carpeta `05-pensamientos`)*
-
----
-
-### B.6. Experiencias Personales
-* Reflexiones finales por cada unidad de estudio.
-* Reflexión integradora de cierre al finalizar el curso.
-*(Puedes ver el detalle en la carpeta `06-experiencias-personales`)*
-
----
-
-### B.7. Autoevaluación
-* Valoración crítica del proceso de aprendizaje, partiendo del estado inicial hasta el logro de las metas propuestas.
-*(Puedes ver el detalle en la carpeta `07-autoevaluacion/`)*
-
----
-
-### B.8. Otros
-* Espacio para material adicional (fotografías, artículos de interés, esquemas libres, etc.).
-*(Puedes ver el detalle en la carpeta `08-otros/`)*
-
----
-> 💡 *Portafolio desarrollado con Markdown y control de versiones en GitHub.*
+<p align="center">
+  <em>"La matemática no es el estudio de objetos, sino de relaciones entre objetos."</em><br>
+  <strong>— Henri Poincaré</strong>
+</p>
