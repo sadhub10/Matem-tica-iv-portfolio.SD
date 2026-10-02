@@ -7,10 +7,10 @@
 
 ### 📐 Perspectiva y Pensamiento Analítico
 
-<div align="center">
-  <img src="./assets/poincare.jpg" alt="Henri Poincaré" width="250px">
-  <p><em>Henri Poincaré (1854-1912)</em></p>
-</div>
+<p align="center">
+  <img src="./activos/1ppp.jpy.jfif" alt="Henri Poincaré" width="220">
+</p>
+<p align="center"><em>Henri Poincaré (1854-1912)</em></p>
 
 > *"La matemática no es el estudio de objetos, sino de relaciones entre objetos; no importa cuáles sean los objetos, siempre que las relaciones entre ellos satisfagan ciertas condiciones."*
 > — **Henri Poincaré** *(Matemático y físico teórico)*
