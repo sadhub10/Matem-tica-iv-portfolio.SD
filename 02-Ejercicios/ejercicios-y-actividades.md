@@ -42,7 +42,6 @@ Este proyecto nos permitió comprender cómo el álgebra matricial se convierte 
    Este proyecto nos permitió explorar cómo los choques geopolíticos externos se transmiten a la economía nacional a través del **mercado energético**, la **inflación importada** y las **cadenas logísticas globales**, convirtiéndose en una experiencia académica enriquecedora que amplió nuestro horizonte sobre la interconexión entre la geopolítica mundial y la realidad económica venezolana.
 
 
-5. **[Estudio de Caso](Enlace)**
+5. **[Otras Actividades](https://drive.google.com/drive/folders/1A2Hl--51JzFp3IK9USJNpUXsOLuBtT_v?usp=drive_link)**
 
-
-6. **[Estudio de Caso](Enlace)**
+En este enlace se encuentran actividades adicionales realizadas durante el curso, incluyendo ensayos, trabajos de conceptos y definiciones, e informes complementarios.
