@@ -24,15 +24,15 @@ Este repositorio digital recopila y estructura el portafolio académico correspo
 
 El contenido se encuentra organizado de acuerdo con el programa oficial de la cátedra[cite: 1], estructurado en las siguientes secciones:
 
-* **[00-Programa de la Asignatura](00-Programa de la Asignatura)**: Sílabo oficial, objetivos y lineamientos metodológicos del curso[cite: 1].
+* **[00-Programa de la Asignatura](./00-Programa%20de%20la%20Asignatura/)**: Sílabo oficial, objetivos y lineamientos metodológicos del curso[cite: 1].
 * **[01-Introducción](./01-Introducci%C3%B3n/)**: Fundamentos lógicos y conceptuales previos al análisis formal.
 * **[02-Ejercicios](./02-Ejercicios/)**: Desarrollo de problemas prácticos y talleres cuantitativos.
-* **[03-Evaluaciones Escritas](./03-Evaluaciones%2520Escritas/)**: Pruebas y evaluaciones sumativas del período académico.
-* **[04-Actividades Creativas](./04-Actividades%2520Creativas/)**: Mapas conceptuales, esquemas visuales e infografías elaboradas durante el semestre.
+* **[03-Evaluaciones Escritas](./03-Evaluaciones%20Escritas/)**: Pruebas y evaluaciones sumativas del período académico.
+* **[04-Actividades Creativas](./04-Actividades%20Creativas/)**: Mapas conceptuales, esquemas visuales e infografías elaboradas durante el semestre.
 * **[05-Pensamientos](./05-Pensamientos/)**: Ensayos y reflexiones críticas sobre la filosofía matemática y su vinculación con la realidad económica.
-* **[06-Experiencias Personales](./06-Experiencias%2520Personales/)**: Bitácoras y valoraciones sobre el crecimiento académico individual y colaborativo.
-* **[07-Autoevaluación](./07-Autoevalu%C3%B1acion/)**: Balance crítico del rendimiento, fortalezas y áreas de consolidación personal.
-* **[08-Otros (Material Adicional)](./08-Otros%2520(Material%2520Adicional)/)**: Reflexiones de cierre, inspiraciones y material complementario del portafolio.
+* **[06-Experiencias Personales](./06-Experiencias%20Personales/)**: Bitácoras y valoraciones sobre el crecimiento académico individual y colaborativo.
+* **[07-Autoevaluación](./07-Autoevaluación/)**: Balance crítico del rendimiento, fortalezas y áreas de consolidación personal.
+* **[08-Otros (Material Adicional)](./08-Otros%20(Material%20Adicional)/)**: Reflexiones de cierre, inspiraciones y material complementario del portafolio.
 
 ---
 
