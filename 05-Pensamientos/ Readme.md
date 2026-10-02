@@ -18,7 +18,7 @@ En esta sección se compilan las lecturas periódicas de pensamientos proporcion
 
 ---
 
-### 📌 Reflexión N° 2
+### 📌 Reflexión N° 3
 * **Título:** [Reflexión de la Lectura Estas Dispuesto](https://drive.google.com/drive/folders/19bchYfWM97KCwNtYezIHhAB3dbRW85BJ?usp=drive_link)
 * **Reflexión Personal:**
   > En esta reflexión sobre la lectura "Estás dispuesto" de Carlos G. Vallés, analizo la diferencia entre acumular información y realmente aprender, a partir del diálogo entre el maestro Rumi y su discípulo. El texto plantea que el verdadero aprendizaje exige una "hospitalidad generosa" de la mente, dejándose impactar por ideas nuevas sin prejuicios ni miedo al cambio. Como estudiante y jugador de fútbol, relaciono esta idea con mi propia experiencia: tanto en el aula como en el campo, cada día es una oportunidad para aprender algo nuevo, y el verdadero reto es estar dispuesto a asimilarlo. Concluyo que en la humildad de aprender está el verdadero saber, y que solo bajando nuestras defensas y reconociendo nuestras limitaciones podemos convertir la experiencia diaria en una herramienta auténtica de transformación humana.
